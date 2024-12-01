@@ -1,5 +1,4 @@
-# 💫 About Me:
-Currently learning VILT
+# An aspiring VILT stack developer
 
 
 ## 🌐 Socials:
