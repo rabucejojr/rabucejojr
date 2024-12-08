@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫
 👋 Hello, World!<br>I'm an aspiring developer on a journey to master the VILT stack (Vue.js, Inertia.js, Laravel, Tailwind CSS). Passionate about API development and integration, I love building efficient, scalable, and user-centric applications.<br>Let’s connect and collaborate to create impactful solutions! 🚀
 
 
